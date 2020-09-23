@@ -3,6 +3,8 @@ What is it?
 
 Sinapsi (synapse) is a news aggregator focused on the Catalan education ecosystem. The main objective of Sinapsi is to make visible all that schools do and to favor synergies amongst them. See the main [Sinapsi website](https://sinapsi.xtec.cat/) for a running instance.
 
+![Demo](https://raw.githubusercontent.com/joansalasoler/assets/master/demos/sinapsi-2.1.gif)
+
 Implementation details:
 -----------------------
 
